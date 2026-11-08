@@ -1,0 +1,8 @@
+{
+  "name": "Clinique Wend-Panga Ouagadougou - Système de Gestion Médicale",
+  "description": "Logiciel complet de gestion clinique privée à Ouagadougou: dossiers patients, rendez-vous, rappels automatiques SMS, facturation et paiements sécurisés, conformité RGPD/CIL, authentification multifacteur et synchronisation santé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
